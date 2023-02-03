@@ -1,0 +1,30 @@
+@media (max-width:576px){
+
+ html {
+  overflow-x: hidden;
+}
+
+  .logo {
+  display: flex;
+ align-items: flex-start;
+ margin-left: 20%;
+}
+
+ .menu ul {
+  display: flex;
+  flex-direction: column;
+  margin-top: 60%;
+  text-align: center;
+  margin-left: -212%;
+  line-height: 47px;
+ }
+
+ .title{
+  font-size: 40px;
+ }
+
+ a {
+  font-size: 40px;
+ }
+  
+ }
